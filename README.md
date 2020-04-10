@@ -22,11 +22,7 @@ With a general interest in wine, we are all curious about what is the best. Ther
 Data Cleaning: As a group
 
 Madison: 1
-
 Saya: 2/3
-
 Kyle: 6/9
-
 Kara: 10/11
-
 Thomas: 8
